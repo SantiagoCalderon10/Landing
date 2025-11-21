@@ -12,3 +12,6 @@ slides[0].classList.add('active');
 
 // Cambiar cada 5 segundos
 setInterval(changeSlide,5000);
+
+
+
