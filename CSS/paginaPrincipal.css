@@ -8,6 +8,9 @@
   --text-light: #ffffff;
   --text-gray: #b9bbbd;
 }
+html {
+  scroll-padding-top: 80px;
+}
 
 * {
   margin: 0;
@@ -765,4 +768,7 @@ footer {
   border-top: 1px solid rgba(255, 102, 0, 0.3) !important;
   margin-top: 80px !important;
   text-align: center !important;
+}
+#formulariocontacto {
+  scroll-margin-top: 80px;
 }
