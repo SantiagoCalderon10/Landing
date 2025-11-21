@@ -282,12 +282,7 @@ body::after {
   left: -2px;
   width: calc(100% + 4px);
   height: calc(100% + 4px);
-  background: linear-gradient(
-    45deg,
-    var(--primary-orange),
-    var(--secondary-orange),
-    var(--gold)
-  );
+  
   background-size: 300% 300%;
   border-radius: 20px;
   z-index: -1;
