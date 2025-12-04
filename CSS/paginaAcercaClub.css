@@ -969,3 +969,9 @@ footer {
   color: var(--text-light);
   font-weight: 700;
 }
+
+.social-media{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
